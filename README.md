@@ -2,7 +2,7 @@
 Este projeto analiza o desempenho de uma rede neural Perceptron de aprendizado não supervisionado com 7 neurônios implementados para serem executado na plataforma Arduino.
 
 ### Modelo da Rede Neural utilizada
-![logo](Imagens/redes-neurais.png)
+![logo](Imagens/redes_neurais.png)
 
 ### Esquemáticos e Circuitos
 ![hardware](Imagens/hardware.png)
