@@ -4,8 +4,10 @@ Este projeto analiza o desempenho de uma rede neural Perceptron de aprendizado n
 ### Modelo da Rede Neural utilizada
 ![logo](Imagens/redes_neurais.png)
 
-### Esquemáticos e Circuitos
+### Protótipo
 ![hardware](Imagens/hardware.png)
+
+### Circuitos
 ![Protoboard](Imagens/Circuito_Protoboard.png)
 
 
