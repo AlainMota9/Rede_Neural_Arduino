@@ -7,9 +7,7 @@ Este projeto analiza o desempenho de uma rede neural Perceptron de aprendizado n
 ### Esquemáticos e Circuitos
 ![hardware](Imagens/hardware.png)
 ![Protoboard](Imagens/Circuito_Protoboard.png)
-![Esquematico1](Imagens/Esquematico_1.jpg)
-![Esquematico2](Imagens/Esquematico_2.jpg)
-![Esquematico3](Imagens/Esquematico_3.jpg)
+
 
 ### Tecnologia
 Aqui estão as tecnologias utilizadas neste projeto.
